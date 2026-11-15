@@ -1,0 +1,13 @@
+*.ino
+*.cpp
+*.c
+*.h
+*.bin
+*.elf
+*.hex
+*.docx
+platformio.ini
+src/
+lib/
+.pio/
+build/
